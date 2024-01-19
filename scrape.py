@@ -1,4 +1,4 @@
-from selenium import webdriver
+think of ways to make this code more efficient and faster "make a comprehensive readme of this code that i can put on my github "from selenium import webdriver
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 import pandas as pd
@@ -61,3 +61,4 @@ df = pd.DataFrame(results)
 
 # Write the DataFrame to an Excel file
 df.to_excel('output.xlsx', index=False)
+""
