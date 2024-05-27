@@ -1,4 +1,4 @@
-# My-1st-Scraper
+# Scraper
 1st Scraper I did for "aws", a telegram client
 
 Sure, here's a comprehensive README for your script:
