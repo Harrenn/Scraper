@@ -1,8 +1,3 @@
-# Scraper
-1st Scraper I did for "aws", a telegram client
-
-Sure, here's a comprehensive README for your script:
-
 # Web Scraping Script
 
 This script is designed to scrape Instagram links, email links, and usernames from a list of URLs. It uses Selenium for web automation, BeautifulSoup for parsing HTML, and pandas for data manipulation and exporting to Excel. The script also utilizes multiprocessing to speed up the scraping process by processing multiple URLs simultaneously.
